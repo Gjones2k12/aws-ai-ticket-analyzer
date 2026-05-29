@@ -1,1 +1,0 @@
-# aws-ai-ticket-analyzer
